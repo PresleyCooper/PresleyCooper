@@ -4,11 +4,11 @@ I'm a finance student at Kennesaw State University graduating in May 2027. I pla
 
 Most of what I build sits between fundamental investing and code. I enjoy figuring out what makes a great business compound for decades, and then turning that thinking into tools I can actually use.
 
-📈 What I'm Up To
+📈 What I'm Up To  
 CEO of the KSU Student Managed Investment Fund (SMIF)
 Co-founder / CTO of the Alternative Investments Organization (AIG)
 
-🛠️ Projects
+🛠️ Projects  
 Confluence · A Streamlit portfolio analytics dashboard with momentum scoring, a Fair P/E screener, and a sector classification framework
 Fair P/E Calculator · A web app that backs into a fair multiple using the ROIIC-based DCF framework from Mauboussin and Callahan
 
